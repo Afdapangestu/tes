@@ -1,0 +1,34 @@
+*{
+  background-color: #0f3170;
+ 
+}
+.rei {
+   color: white;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 25px;
+}
+.logo{
+   width: 18%;
+   height: 50%;
+   margin-top: 1px;
+   margin-left: -1%;
+   background-size: 10%;
+}
+.logo2{
+   width: 14%;
+   height: 30%;
+   margin-top: -20%;
+   margin-left: 85%;
+   background-size: 10%;
+}
+.rog{
+   margin-top: -21%;
+  
+}
+.ero{
+   margin-top: -9px;
+}
+
